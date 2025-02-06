@@ -117,7 +117,9 @@ pytz-deprecation-shim==0.1.0.post0
 pywin32==303
 pywin32-ctypes==0.2.0
  HEAD
-14f300ce0d0578d2b3762904a789785f99af5cd3
+flask==2.0.1
+requests==2.27.1
+numpy==1.21.5
 pyzmq==22.3.0
 qrcode==7.3.1
 qt-material==2.10
