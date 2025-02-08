@@ -1,6 +1,4 @@
 cachetools==5.5.1
-numpy==2.2.2
-pefile==2024.8.26
-py2exe==0.13.0.2
 numpy>=1.22.0
+pefile==2024.8.26
 pyinstaller>=4.0
